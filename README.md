@@ -80,3 +80,4 @@ npm start
 yarn start
 ```
 E o webpack irá iniciar a aplicação em modo de desenvolvimento, abrindo uma janela do Electron com a aplicação em execução, apartir desse momento toda modificação feita no código fonte será refletida na aplicação em tempo real.
+
