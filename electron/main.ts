@@ -8,7 +8,7 @@ declare const MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY: string
 
 function createWindow () {
   // const icon = nativeImage.createFromPath(`${app.getAppPath()}/assets/icons/my-icon.png`)
-
+//Comment
   mainWindow = new BrowserWindow({
     // icon
     width: 1100,
